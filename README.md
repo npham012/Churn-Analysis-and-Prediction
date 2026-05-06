@@ -73,14 +73,10 @@ Identify customer attributes and behaviors associated with churn to support rete
 ---
 
 # PowerBI Dashboard
-## Interaction
 ![Churn Dashboard Interaction](<Visuals/Churn Dashboard Interaction.gif>)
 - **Drill Down:** Users can click on each tenure or monthly charge bucket to drill down.
 - **Dynamic Filtering:** Users can toggle between customer segments to see real-time churn impact.
 - **Global Reset:** A one-click reset allows for quick pivoting between different demographic deep-dives..
-
-## Screenshot
-![Dashboard](<Visuals/Dashboard.png>)
 
 ---
 
